@@ -14,7 +14,7 @@
     
     echo '
     <label for="nombre">Nombre:</label>
-    <input type="text"> placeholder = Nombre'
+    <input type="text" placeholder = Nombre>'
     
     ;
 
