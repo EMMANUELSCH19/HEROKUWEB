@@ -12,6 +12,8 @@
 
     echo "Hello World!";
 
+    echo    <input type="text">;
+
     ?>
 
 </body>
