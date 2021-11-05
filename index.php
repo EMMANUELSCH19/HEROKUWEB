@@ -9,13 +9,7 @@
 </head>
 <body>
 
-<?php
-
-echo "<h1>Hello World</h1>";
-
-?>
-
-<!-- <div class="input-group mb-3">
+<div class="input-group mb-3">
     <span class="input-group-text" id="basic-addon1">@</span>
     <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
 </div>
@@ -46,7 +40,7 @@ echo "<h1>Hello World</h1>";
 <div class="input-group">
     <span class="input-group-text">With textarea</span>
     <textarea class="form-control" aria-label="With textarea"></textarea>
-</div> -->
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
