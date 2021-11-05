@@ -10,7 +10,7 @@
 
     <?php
 
-    echo "Hello World!";
+    echo "Hello World! <hr>";
 
     echo '<input type="text">';
 
