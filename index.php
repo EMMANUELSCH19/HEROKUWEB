@@ -11,8 +11,20 @@
     <?php
 
     echo "Hello World! <hr>";
+    
+    echo '
+    <label for="nombre">Nombre:</label>
+    <input type="text"> placeholder = Nombre'
+    
+    ;
 
-    echo '<input type="text">';
+    // TODO: 1. Crear una variable $nombre y asignarle tu nombre
+    // ! IMPORTANTE !
+    // * SE PUEDE PONER TODO DENTRO DE 1 ECHO?
+
+idk
+
+
 
     ?>
 
