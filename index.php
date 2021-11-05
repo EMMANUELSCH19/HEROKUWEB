@@ -12,7 +12,7 @@
 
     echo "Hello World!";
 
-    echo    <input type="text">;
+    echo '<input type="text">';
 
     ?>
 
