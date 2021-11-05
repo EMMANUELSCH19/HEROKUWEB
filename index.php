@@ -10,7 +10,7 @@
 
     <?php
 
-    <input type="text" placehoder="Nombre";
+    echo "Hello World!";
 
     ?>
 
