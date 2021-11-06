@@ -1,6 +1,6 @@
 <?php
 $servername = "x8autxobia7sgh74.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306"; //servidor y puerto
-$database = "bellalovers"; //nombre de la base de datos
+$database = "vw15yzggqp1pwsvx"; //nombre de la base de datos
 $username = "hyblwgztm5vh1aqn"; //nombre de usuario
 $password = "g05tsholklitzb0x"; //password del usuario
 // Create connection
