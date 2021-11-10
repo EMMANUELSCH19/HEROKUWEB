@@ -1,7 +1,7 @@
 <?php
 
     //CORREO AL QUE SE ENVIARA EL MENSAJE
-    $destinatario = 'emmanuel_1320114041@uptecaamac.edu.mx';
+    $destinatario = 'emmanuel_1320114041@uptecamac.edu.mx';
     $nombre = $_POST['nombre'];
     $correo = $_POST['correo'];
     $apellido = $_POST['apellido'];
