@@ -14,7 +14,7 @@
 
     //CABECERA DEL MENSAJE
     $header = "Enviado desde la pagina BELLALOVERS";
-    $mensajeCompleto = $mensaje . "\nAtentamente: " . $nombre . "\n" . $apellido;
+    $mensajeCompleto = "\nAtentamente: " . $nombre . "\n" . $apellido;
 
     mail($destinatario, $asunto, $mensajeCompleto, $header);
 
