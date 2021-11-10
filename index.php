@@ -23,21 +23,21 @@
                     <div class="columnas">
                         <label class="etiqueta" for="">Nombre:</label>
                         <div class="container-campo">
-                            <input name="nombre" class="campo" type="text" placeholder="Nombre...">
+                            <input name="nombre" class="campo" type="text" placeholder="Nombre..." >
                         </div>
                     </div>
 
                     <div class="columnas">
                         <label class="etiqueta" for="apellido">Apellidos:</label>
                         <div class="container-campo">
-                            <input name="apellido" class="campo" type="text" placeholder="Apellidos...">
+                            <input name="apellido" class="campo" type="text" placeholder="Apellidos..." >
                         </div>
                     </div>
 
                     <div class="columnas">
                         <label class="etiqueta" for="correo">Correo Electronico:</label>
                         <div class="container-campo">
-                            <input name="email" class="campo" type="email" placeholder="Email...">
+                            <input name="email" class="campo" type="email" placeholder="Email..." >
                         </div>
                     </div>
 
