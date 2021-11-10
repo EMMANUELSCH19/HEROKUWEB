@@ -18,7 +18,7 @@
         </div>
 
         <div class="container-form">
-            <form action="registros.php" method="post">
+            <form action="correo.php" method="POST">
                 <div class="form">
                     <div class="columnas">
                         <label class="etiqueta" for="">Nombre:</label>
