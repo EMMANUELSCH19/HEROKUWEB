@@ -48,7 +48,7 @@
     }
 
     if($mail){
-        echo"<script type=\"text/javascript\">alert('Registro exitoso'); window.location='https://bellalovers.herokuapp.com';</script>";
+        echo"<script type=\"text/javascript\">alert('Registro exitoso');</script>";
     }
 
     // ! EVOS 
